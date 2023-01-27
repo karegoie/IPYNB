@@ -1,18 +1,17 @@
 /TPM/*
 /subgenome/*
-/assembly/*
+/GenomeIdentify/*
 /synteny/*
 /synteny_graph/*
-/woodycrawling/*
+/crawling/*
 /venn/*
 /LTR/*
 
 !/TPM/*.ipynb
 !/subgenome/*.ipynb
-!/assembly/*.ipynb
+!/GenomeIdentify/*.ipynb
 !/synteny/*.ipynb
 !/synteny_graph/*.ipynb
-!/woodycrawling/*.ipynb
+!/crawling/*.ipynb
 !/venn/*.ipynb
 !/LTR/*.ipynb
-
