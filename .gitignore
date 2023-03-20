@@ -6,12 +6,15 @@
 /crawling/*
 /venn/*
 /LTR/*
+/Centromere/*
 
 !/TPM/*.ipynb
 !/subgenome/*.ipynb
 !/GenomeIdentify/*.ipynb
 !/synteny/*.ipynb
+!/synteny/*.py
 !/synteny_graph/*.ipynb
 !/crawling/*.ipynb
 !/venn/*.ipynb
 !/LTR/*.ipynb
+!/Centromere/*.ipynb
